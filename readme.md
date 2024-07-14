@@ -1,6 +1,6 @@
 Dear reviewers,
 
-this is the repository for the paper entitled "" and currently under peer-review. We will release this repository publicly upon acceptance of the paper.
+this is the repository for the paper entitled ""Hey Google, Remind me to be Phished" Exploiting the Notifications of the Google (AI) Assistant on Android for Social Engineering Attacks" and currently under peer-review. We will release this repository publicly upon acceptance of the paper.
 
 ### Description
 
