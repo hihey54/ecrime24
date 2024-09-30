@@ -1,8 +1,15 @@
-Dear reviewers,
+This repository provides supplementary material for our paper entitled _"Hey Google, Remind me to be Phished" Exploiting the Notifications of the Google (AI) Assistant on Android for Social Engineering Attacks"_, accepted to the APWG Symposium on Electronic Crime Research (eCrime) held in Boston, USA in September 2024.
 
-this is the repository for the paper entitled ""Hey Google, Remind me to be Phished" Exploiting the Notifications of the Google (AI) Assistant on Android for Social Engineering Attacks" and currently under peer-review. We will release this repository publicly upon acceptance of the paper.
 
-### Description
+If you use any of our resources, we kindly ask you to cite our paper with the following BibTeX entry:
+```
+@inproceedings{weinz2024heygoogle,
+    title={{"Hey Google, Remind me to be Phished" Exploiting the Notifications of the Google (AI) Assistant on Android for Social Engineering Attacks}},
+    author={Weinz, Marie and Schroeer, Saskia Laura and Apruzzese, Giovanni},
+    booktitle={Proc. APWG Symposium on Electronic Crime Research (eCrime)},
+    year={2024}
+}
+```
 
 This repository includes:
 
